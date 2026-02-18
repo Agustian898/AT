@@ -1,0 +1,10 @@
+# Node modules
+node_modules/
+
+# Distribution directory
+dist/
+
+# Build artifacts
+*.log
+*.tmp
+*.lock
